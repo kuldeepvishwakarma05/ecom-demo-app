@@ -2,11 +2,11 @@
 
 ## Projct Overview
 #
-![Home Page] ("https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG")
+![Home Page] (https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG)
 #
-![Home Page] ("https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG")
+![Home Page] (https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG)
 #
-![Home Page] ("https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG")
+![Home Page] (https://raw.githubusercontent.com/kuldeepvishwakarma05/ecom-demo-app/main/src/commponent/images/Capture1.PNG)
 
 
 ## **Technology**
