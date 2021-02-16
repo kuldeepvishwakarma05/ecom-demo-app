@@ -1,6 +1,5 @@
 # E-Commerce Demo Website
-## Live Demo
-![live](https://ecom-press.herokuapp.com/)
+# [Live Demo](https://ecom-press.herokuapp.com/)
 ## Projct Overview
 #
 ## Home Page
